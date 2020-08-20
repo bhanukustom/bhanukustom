@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on `python`, `django`, `pandas`, `javascript visulaization libraries`
+- 🔭 I’m currently working on `python`, `django`, `pandas`, `javascript`, `angular`
 - 🌱 I’m always learning 
 - 👯 I’m looking to collaborate on `Full stack` python + angular
 - 🤔 I’m looking for help with 
