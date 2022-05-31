@@ -6,12 +6,8 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on `python`, `django`, `pandas`, `javascript`, `angular`
+- 🔭 I’m currently working on `Python`, `Django`, `Pandas`, `JavaScript`, `Angular`, `DevOps`
 - 🌱 I’m always learning 
-- 👯 I’m looking to collaborate on `Full stack` python + angular
+- 👯 I’m looking to collaborate on `Full stack` python + javascript --> `Complete stack`
 - 🤔 I’m looking for help with 
 - 💬 Ask me about anything
-- 📫 How to reach me: 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
